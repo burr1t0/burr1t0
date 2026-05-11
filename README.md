@@ -20,8 +20,7 @@
 
 ## 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burr1t0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burr1t0&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
 
 ## 📫 Связь
 
