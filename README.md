@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет, я Егор 👋
 
-<!--
-**burr1t0/burr1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент факультета инженерии искусственного интеллекта **ИТМО**, Санкт-Петербург.
 
-Here are some ideas to get you started:
+## 🛠 Что умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** — скрипты, автоматизация, парсинг
+- **Telegram-боты** — aiogram, интеграция с API
+- **Веб** — HTML, CSS, JavaScript
+- **Данные** — обработка, Excel, Jupyter
+
+## 📂 Проекты
+
+| Репозиторий | Описание |
+|---|---|
+| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Шифрование, Сапёр, свой Git, Telegram-бот |
+| [for_my_love](https://github.com/burr1t0/for_my_love) | Многостраничный сайт на JS |
+| [date-invite](https://github.com/burr1t0/date-invite) | Одностраничный сайт |
+
+## 📫 Связь
+
+Telegram: @b_urrito
