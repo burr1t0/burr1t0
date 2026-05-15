@@ -13,7 +13,7 @@
 ## Проекты
 
 <details>
-<summary>🎓 ИТМО — 1 курс</summary>
+<summary>ИТМО — 1 курс</summary>
 
 | Репозиторий | Описание |
 |---|---|
@@ -24,28 +24,29 @@
 ---
 
 <details>
-<summary>💼 Портфолио — коммерческие демо</summary>
+<summary>Портфолио — коммерческие демо</summary>
 
-| Репозиторий | Живое демо |
+| Репозиторий | Сайт |
 |---|---|
-| [coffee-landing](https://github.com/burr1t0/coffee-landing) | [🔗 demo](https://burr1t0.github.io/coffee-landing) |
-| [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | [🔗 demo](https://burr1t0.github.io/barbershop-landing) |
-| [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | [🔗 demo](https://burr1t0.github.io/photographer-portfolio) |
-| [fitness-landing](https://github.com/burr1t0/fitness-landing) | [🔗 demo](https://burr1t0.github.io/fitness-landing) |
+| [coffee-landing](https://github.com/burr1t0/coffee-landing) | [↗](https://burr1t0.github.io/coffee-landing) |
+| [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | [↗](https://burr1t0.github.io/barbershop-landing) |
+| [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | [↗](https://burr1t0.github.io/photographer-portfolio) |
+| [fitness-landing](https://github.com/burr1t0/fitness-landing) | [↗](https://burr1t0.github.io/fitness-landing) |
 
 </details>
 
 ---
 
 <details>
-<summary>❤️ Личные проекты</summary>
+<summary>Личные проекты</summary>
 
-| Репозиторий | Живое демо |
+| Репозиторий | Сайт |
 |---|---|
-| [for_my_love](https://github.com/burr1t0/for_my_love) | [🔗 demo](https://burr1t0.github.io/for_my_love) |
-| [date-invite](https://github.com/burr1t0/date-invite) | [🔗 demo](https://burr1t0.github.io/date-invite) |
+| [for_my_love](https://github.com/burr1t0/for_my_love) | [↗](https://burr1t0.github.io/for_my_love) |
+| [date-invite](https://github.com/burr1t0/date-invite) | [↗](https://burr1t0.github.io/date-invite) |
 
 </details>
+
 ## Статистика
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
