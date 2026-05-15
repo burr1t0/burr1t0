@@ -11,6 +11,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Проекты
+*Нажми на раздел чтобы раскрыть*
 
 <details>
 <summary>ИТМО — 1 курс</summary>
