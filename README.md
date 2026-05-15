@@ -51,7 +51,6 @@
 
 ## Статистика
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=github_dark)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
 
 ## 📫 Связь
