@@ -18,7 +18,8 @@
 
 | Репозиторий | Описание |
 |---|---|
-| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы 1 семестра: шифрование, сапёр, PyGit, Telegram-бот |
+| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы по Python: шифрование, сапёр, PyGit, Telegram-бот |
+| [algorithms-itmo](https://github.com/burr1t0/algorithms-itmo) | Лабы по алгоритмам и структурам данных |
 
 </details>
 
