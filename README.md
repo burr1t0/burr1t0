@@ -12,15 +12,40 @@
 
 ## Проекты
 
-| Репозиторий | Описание | Демо |
-|---|---|---|
-| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Шифрование, Сапёр, свой Git, Telegram-бот | — |
-| [coffee-landing](https://github.com/burr1t0/coffee-landing) | Лендинг кофейни | [Открыть](https://burr1t0.github.io/coffee-landing) |
-| [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | Лендинг барбершопа | [Открыть](https://burr1t0.github.io/barbershop-landing) |
-| [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | Портфолио фотографа | [Открыть](https://burr1t0.github.io/photographer-portfolio) |
-| [fitness-landing](https://github.com/burr1t0/fitness-landing) | Лендинг фитнес-тренера | [Открыть](https://burr1t0.github.io/fitness-landing) |
-| [for_my_love](https://github.com/burr1t0/for_my_love) | Многостраничный сайт на JS | — |
+<details>
+<summary>🎓 ИТМО — 1 курс</summary>
 
+| Репозиторий | Описание |
+|---|---|
+| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы 1 семестра: шифрование, сапёр, PyGit, Telegram-бот |
+
+</details>
+
+---
+
+<details>
+<summary>💼 Портфолио — коммерческие демо</summary>
+
+| Репозиторий | Живое демо |
+|---|---|
+| [coffee-landing](https://github.com/burr1t0/coffee-landing) | [🔗 demo](https://burr1t0.github.io/coffee-landing) |
+| [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | [🔗 demo](https://burr1t0.github.io/barbershop-landing) |
+| [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | [🔗 demo](https://burr1t0.github.io/photographer-portfolio) |
+| [fitness-landing](https://github.com/burr1t0/fitness-landing) | [🔗 demo](https://burr1t0.github.io/fitness-landing) |
+
+</details>
+
+---
+
+<details>
+<summary>❤️ Личные проекты</summary>
+
+| Репозиторий | Живое демо |
+|---|---|
+| [for_my_love](https://github.com/burr1t0/for_my_love) | [🔗 demo](https://burr1t0.github.io/for_my_love) |
+| [date-invite](https://github.com/burr1t0/date-invite) | [🔗 demo](https://burr1t0.github.io/date-invite) |
+
+</details>
 ## Статистика
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
