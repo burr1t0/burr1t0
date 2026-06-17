@@ -37,18 +37,6 @@
 
 </details>
 
----
-
-<details>
-<summary>Личные проекты</summary>
-
-| Репозиторий | Сайт |
-|---|---|
-| [for_my_love](https://github.com/burr1t0/for_my_love) | [↗](https://burr1t0.github.io/for_my_love) |
-| [date-invite](https://github.com/burr1t0/date-invite) | [↗](https://burr1t0.github.io/date-invite) |
-
-</details>
-
 ## Статистика
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
