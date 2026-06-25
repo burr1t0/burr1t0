@@ -17,7 +17,9 @@
 | [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы по Python: шифрование, сапёр, PyGit, Telegram-бот |
 | [algorithms-itmo](https://github.com/burr1t0/algorithms-itmo) | Лабы по алгоритмам и структурам данных |
 </details>
+
 ---
+
 <details>
 <summary>Портфолио</summary>
 
@@ -29,6 +31,8 @@
 | [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | Демо: фотограф | [↗](https://burr1t0.github.io/photographer-portfolio) |
 | [fitness-landing](https://github.com/burr1t0/fitness-landing) | Демо: фитнес-тренер | [↗](https://burr1t0.github.io/fitness-landing) |
 </details>
+
+---
 
 ## Статистика
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burr1t0&theme=dark)
