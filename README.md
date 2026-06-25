@@ -30,6 +30,7 @@
 
 | Репозиторий | Сайт |
 |---|---|
+| [milovidova-atelier](https://github.com/burr1t0/milovidova-atelier) | Лендинг-визитка с парсером постов из Instagram | [↗](https://milovidova-atelier.ru/) |
 | [coffee-landing](https://github.com/burr1t0/coffee-landing) | [↗](https://burr1t0.github.io/coffee-landing) |
 | [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | [↗](https://burr1t0.github.io/barbershop-landing) |
 | [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | [↗](https://burr1t0.github.io/photographer-portfolio) |
