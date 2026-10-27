@@ -11,16 +11,6 @@
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ## Проекты
 *Нажми на раздел чтобы раскрыть*
-<details open>
-<summary>Избранное</summary>
-
-| Репозиторий | Описание | Сайт |
-|---|---|---|
-| [NotchApp](https://github.com/burr1t0/NotchApp) | Приложение для macOS в вырезе MacBook: музыка, буфер обмена, переводчик, файлы и трекер сессий Claude (Swift, SwiftUI) | |
-| [angliyskaya-law-website](https://github.com/burr1t0/angliyskaya-law-website) | Сайт юридической коллегии с системой заявок, квизом, чатом, админкой и тремя Telegram-ботами (Flask, aiogram) | [↗](https://xn--80aaiufgeo4bzj.xn--p1ai) |
-</details>
-
----
 <details>
 <summary>ИТМО — 1 курс</summary>
 
@@ -37,6 +27,8 @@
 
 | Репозиторий | Описание | Сайт |
 |---|---|---|
+| [angliyskaya-law-website](https://github.com/burr1t0/angliyskaya-law-website) | Сайт юридической коллегии с системой заявок, квизом, чатом, админкой и тремя Telegram-ботами (Flask, aiogram) | [↗](https://xn--80aaiufgeo4bzj.xn--p1ai) |
+| [NotchApp](https://github.com/burr1t0/NotchApp) | Приложение для macOS в вырезе MacBook: музыка, буфер обмена, переводчик, файлы и трекер сессий Claude (Swift, SwiftUI) | |
 | [milovidova-atelier](https://github.com/burr1t0/milovidova-atelier) | Лендинг-визитка с парсером постов из Instagram | [↗](https://milovidova-atelier.ru/) |
 | [coffee-landing](https://github.com/burr1t0/coffee-landing) | Демо: кофейня | [↗](https://burr1t0.github.io/coffee-landing) |
 | [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | Демо: барбершоп | [↗](https://burr1t0.github.io/barbershop-landing) |
