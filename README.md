@@ -11,18 +11,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ## Проекты
 *Нажми на раздел чтобы раскрыть*
-<details>
-<summary>ИТМО — 1 курс</summary>
-
-| Репозиторий | Описание |
-|---|---|
-| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы по Python: шифрование, сапёр, PyGit, Telegram-бот |
-| [algorithms-itmo](https://github.com/burr1t0/algorithms-itmo) | Лабы по алгоритмам и структурам данных |
-</details>
-
----
-
-<details>
+<details open>
 <summary>Портфолио</summary>
 
 | Репозиторий | Описание | Сайт |
@@ -30,10 +19,18 @@
 | [angliyskaya-law-website](https://github.com/burr1t0/angliyskaya-law-website) | Сайт юридической коллегии с системой заявок, квизом, чатом, админкой и тремя Telegram-ботами (Flask, aiogram) | [↗](https://xn--80aaiufgeo4bzj.xn--p1ai) |
 | [NotchApp](https://github.com/burr1t0/NotchApp) | Приложение для macOS в вырезе MacBook: музыка, буфер обмена, переводчик, файлы и трекер сессий Claude (Swift, SwiftUI) | |
 | [milovidova-atelier](https://github.com/burr1t0/milovidova-atelier) | Лендинг-визитка с парсером постов из Instagram | [↗](https://milovidova-atelier.ru/) |
-| [coffee-landing](https://github.com/burr1t0/coffee-landing) | Демо: кофейня | [↗](https://burr1t0.github.io/coffee-landing) |
-| [barbershop-landing](https://github.com/burr1t0/barbershop-landing) | Демо: барбершоп | [↗](https://burr1t0.github.io/barbershop-landing) |
-| [photographer-portfolio](https://github.com/burr1t0/photographer-portfolio) | Демо: фотограф | [↗](https://burr1t0.github.io/photographer-portfolio) |
-| [fitness-landing](https://github.com/burr1t0/fitness-landing) | Демо: фитнес-тренер | [↗](https://burr1t0.github.io/fitness-landing) |
+| Демо-лендинги | Шаблоны сайтов для малого бизнеса: [кофейня](https://burr1t0.github.io/coffee-landing), [барбершоп](https://burr1t0.github.io/barbershop-landing), [фотограф](https://burr1t0.github.io/photographer-portfolio), [фитнес-тренер](https://burr1t0.github.io/fitness-landing) | |
+</details>
+
+---
+
+<details>
+<summary>ИТМО — 1 курс</summary>
+
+| Репозиторий | Описание |
+|---|---|
+| [python-itmo-labs](https://github.com/burr1t0/python-itmo-labs) | Лабы по Python: шифрование, сапёр, PyGit, Telegram-бот |
+| [algorithms-itmo](https://github.com/burr1t0/algorithms-itmo) | Лабы по алгоритмам и структурам данных |
 </details>
 
 ---
