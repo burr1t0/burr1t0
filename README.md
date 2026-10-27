@@ -6,9 +6,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ## Проекты
 *Нажми на раздел чтобы раскрыть*
+<details open>
+<summary>Избранное</summary>
+
+| Репозиторий | Описание | Сайт |
+|---|---|---|
+| [NotchApp](https://github.com/burr1t0/NotchApp) | Приложение для macOS в вырезе MacBook: музыка, буфер обмена, переводчик, файлы и трекер сессий Claude (Swift, SwiftUI) | |
+| [angliyskaya-law-website](https://github.com/burr1t0/angliyskaya-law-website) | Сайт юридической коллегии с системой заявок, квизом, чатом, админкой и тремя Telegram-ботами (Flask, aiogram) | [↗](https://xn--80aaiufgeo4bzj.xn--p1ai) |
+</details>
+
+---
 <details>
 <summary>ИТМО — 1 курс</summary>
 
