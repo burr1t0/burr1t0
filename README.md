@@ -18,6 +18,7 @@
 |---|---|---|
 | [angliyskaya-law-website](https://github.com/burr1t0/angliyskaya-law-website) | Сайт юридической коллегии с системой заявок, квизом, чатом, админкой и тремя Telegram-ботами (Flask, aiogram) | [↗](https://xn--80aaiufgeo4bzj.xn--p1ai) |
 | [NotchApp](https://github.com/burr1t0/NotchApp) | Приложение для macOS в вырезе MacBook: музыка, буфер обмена, переводчик, файлы и трекер сессий Claude (Swift, SwiftUI) | |
+| [NetWatch](https://github.com/burr1t0/NetWatch) | Диагностика домашней сети для macOS: показывает, где ломается интернет (Wi-Fi, провайдер, DNS или VPN). Агент замеров, виджет с графиком за час, сутки и неделю, уведомления о проблемах (Swift, SwiftUI, WidgetKit) | |
 | [milovidova-atelier](https://github.com/burr1t0/milovidova-atelier) | Лендинг-визитка с парсером постов из Instagram | [↗](https://milovidova-atelier.ru/) |
 | Демо-лендинги | Шаблоны сайтов для малого бизнеса: [кофейня](https://burr1t0.github.io/coffee-landing), [барбершоп](https://burr1t0.github.io/barbershop-landing), [фотограф](https://burr1t0.github.io/photographer-portfolio), [фитнес-тренер](https://burr1t0.github.io/fitness-landing) | |
 </details>
